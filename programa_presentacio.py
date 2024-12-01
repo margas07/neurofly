@@ -1,5 +1,5 @@
-[!IMPORTANT]
-Hem afegit un programa addicional per a mostrar a la presentació. Aquest està fet més enllà del període d'entrega de la memòria, només l'hem usat per a fer la presentació i, per tant, no extraiem cap conclusió d'aquest programa en específic.
+> [!IMPORTANT]
+> Hem afegit un programa addicional per a mostrar a la presentació. Aquest està fet més enllà del període d'entrega de la memòria, només l'hem usat per a fer la presentació i, per tant, no extraiem cap conclusió d'aquest programa en específic.
 
 # Importem les llibreries rellevants
 import RPi.GPIO as GPIO  # Llibreria essencial perquè funcionin certs mòduls
